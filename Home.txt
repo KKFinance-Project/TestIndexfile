@@ -1,9 +1,0 @@
-This is a Home Page modified in stage
-
-Modifing for stash concept.
-
-now test.
-
-V1.0.0
-
-Using SSH key
